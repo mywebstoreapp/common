@@ -1,0 +1,9 @@
+{
+    "name": "mywebstoreapp/common",
+    "autoload": {
+        "psr-4": {
+            "Mywebstoreapp\\Common\\": "src/"
+        }
+    },
+    "require": {}
+}
